@@ -226,36 +226,291 @@
 <[46]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\vendedor.a5wcmp}">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 11:38:10 30 am')>
+<timestamp=CTODT('26/09/2017 05:54:36 53 pm')>
 >
 <[47]<type="css">
 <name="a5system">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 03:33:22 34 pm')>
+<timestamp=CTODT('26/09/2017 05:54:36 66 pm')>
 >
 <[48]<type="css">
 <name="ios7">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 03:33:22 53 pm')>
+<timestamp=CTODT('26/09/2017 05:54:36 85 pm')>
 >
 <[49]<type="cssIcon">
 <name="font-awesome">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 03:33:22 64 pm')>
+<timestamp=CTODT('26/09/2017 05:54:36 96 pm')>
 >
 <[50]<type="file">
 <name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\project.securitysettings}">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 03:33:22 65 pm')>
+<timestamp=CTODT('26/09/2017 05:54:36 96 pm')>
 >
 <[51]<type="file">
 <name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\logonubison.png}">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 03:33:22 65 pm')>
+<timestamp=CTODT('26/09/2017 05:54:36 97 pm')>
 >
 <[52]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\administrador.a5wcmp}">
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2076\temphttp___nubisonlab_cl___1580\prototiposoftram">
-<timestamp=CTODT('26/09/2017 03:33:22 20 pm')>
+<timestamp=CTODT('26/09/2017 05:53:22 38 pm')>
+>
+<[53]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 09:49:49 97 am')>
+>
+<[54]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\administrador.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:07:12 78 pm')>
+>
+<[55]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\index.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 10 pm')>
+>
+<[56]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\vendedor.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 29 pm')>
+>
+<[57]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:07:12 91 pm')>
+>
+<[58]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:07:13 11 pm')>
+>
+<[59]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:07:13 21 pm')>
+>
+<[60]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:07:13 22 pm')>
+>
+<[61]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\logonubison.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:07:13 23 pm')>
+>
+<[62]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:57 81 pm')>
+>
+<[63]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 29 pm')>
+>
+<[64]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 30 pm')>
+>
+<[65]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 74 pm')>
+>
+<[66]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 75 pm')>
+>
+<[67]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 76 pm')>
+>
+<[68]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 76 pm')>
+>
+<[69]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 77 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 78 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\almacen-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 50 am')>
+>
+<[72]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\bano (2)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 54 am')>
+>
+<[73]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\bano (3)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 58 am')>
+>
+<[74]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\bano-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 61 am')>
+>
+<[75]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\cocina (2)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 64 am')>
+>
+<[76]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\cocina-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 67 am')>
+>
+<[77]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\comedor-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 70 am')>
+>
+<[78]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\dormitorio (2)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 73 am')>
+>
+<[79]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\dormitorio (3)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 75 am')>
+>
+<[80]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\dormitorio-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 78 am')>
+>
+<[81]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\edificio (2)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 79 am')>
+>
+<[82]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\edificio (3)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 81 am')>
+>
+<[83]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\edificio (4)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 86 am')>
+>
+<[84]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\edificio-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 88 am')>
+>
+<[85]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\loggia-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 91 am')>
+>
+<[86]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\pasillo (2)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 94 am')>
+>
+<[87]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\pasillo-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:42 98 am')>
+>
+<[88]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\sala (2)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:43 07 am')>
+>
+<[89]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\sala (3)-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 10:20:43 11 am')>
+>
+<[90]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\bebidas-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 78 pm')>
+>
+<[91]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\carnes-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 78 pm')>
+>
+<[92]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\descuentos-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 79 pm')>
+>
+<[93]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\dulces-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 79 pm')>
+>
+<[94]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\licores-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 79 pm')>
+>
+<[95]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\limpieza-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 79 pm')>
+>
+<[96]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\vegetales-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 84 pm')>
+>
+<[97]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\producto-carnes-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 80 pm')>
+>
+<[98]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\producto-limpieza-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 81 pm')>
+>
+<[99]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\productos-bebidas-min.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 82 pm')>
+>
+<[100]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\productos-bebidas2-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 82 pm')>
+>
+<[101]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\productos-dulces-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 82 pm')>
+>
+<[102]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\productos-licores-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 83 pm')>
+>
+<[103]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo softram\prototipo.webprojects\default.webproject\imagenes\productos-vegetales-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4976\temphttp___nubisonlab_cl___1580\prototiposoftram">
+<timestamp=CTODT('27/09/2017 06:05:58 83 pm')>
 >
 >

@@ -1,0 +1,238 @@
+//Based on style:Enclosed
+$color:#402d94;
+$border_radius:12pt;
+$border_width:1pt;
+$padding:3pt;
+$banded:true;
+$border_style:solid;
+
+@mixin AltColor($color) { 
+ background-color: if( lightness( lighten($color,13%) ) > 95% , darken($color,13%) , lighten($color,13%) ); 
+ color: if( lightness($color) > 40, #000000 , #ffffff );
+}
+@mixin BackgroundColor($color,$fontcolor) {  
+ color: if( lightness($color) > 40, $fontcolor , #ffffff );
+ background-color: $color; 
+}
+
+.reportColumnBoxColumn {
+border-style: $border_style;
+border-width: $border_width;
+border-color: darken($color,28%);
+@if $border_radius > 0pt {
+border-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+
+.reportColumnBoxRow {
+border-style: $border_style;
+border-width: $border_width;
+border-color: darken($color,28%);
+@if $border_radius > 0pt {
+border-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnCell {
+vertical-alignment: middle;
+padding: $padding;
+}
+.reportColumnHeadingCell {
+@include BackgroundColor($color,#333333);
+padding: $padding;
+}
+.reportColumnFooterTotal {
+@include BackgroundColor(lighten($color,8%),#000000);
+vertical-align: middle;
+padding: $padding;
+}
+
+@if $banded {
+.reportColumnDetail {
+@include BackgroundColor( #ffffff, #000000 );
+padding: $padding;
+}
+.reportColumnDetailAlt, .ReportRowAlt td {
+@include AltColor($color);
+padding: $padding;
+}
+}
+
+.reportColumnBoxColumnM {
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnL {
+border-left-style: $border_style;
+border-left-width: $border_width;
+border-left-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnR {
+border-right-style: $border_style;
+border-right-width: $border_width;
+border-right-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnT {
+border-top-style: $border_style;
+border-top-width: $border_width;
+border-top-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnB {
+border-bottom-style: $border_style;
+border-bottom-width: $border_width;
+border-bottom-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnTL {
+border-top-style: $border_style;
+border-top-width: $border_width;
+border-top-color:  darken($color,28%);
+border-left-style: $border_style;
+border-left-width: $border_width;
+border-left-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-top-left-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnTR {
+border-top-style: $border_style;
+border-top-width: $border_width;
+border-top-color:  darken($color,28%);
+border-right-style: $border_style;
+border-right-width: $border_width;
+border-right-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-top-right-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnBL {
+border-left-style: $border_style;
+border-left-width: $border_width;
+border-left-color:  darken($color,28%);
+border-bottom-style: $border_style;
+border-bottom-width: $border_width;
+border-bottom-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-bottom-left-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxColumnBR {
+border-right-style: $border_style;
+border-right-width: $border_width;
+border-right-color:  darken($color,28%);
+border-bottom-style: $border_style;
+border-bottom-width: $border_width;
+border-bottom-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-bottom-right-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxRowM {
+vertical-alignment: middle;
+}
+.reportColumnBoxRowL {
+border-left-style: $border_style;
+border-left-width: $border_width;
+border-left-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxRowR {
+border-right-style: $border_style;
+border-right-width: $border_width;
+border-right-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxRowT {
+border-top-style: $border_style;
+border-top-width: $border_width;
+border-top-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxRowB {
+border-bottom-style: $border_style;
+border-bottom-width: $border_width;
+border-bottom-color:  darken($color,28%);
+vertical-alignment: middle;
+}
+.reportColumnBoxRowTL {
+border-top-style: $border_style;
+border-top-width: $border_width;
+border-top-color:  darken($color,28%);
+border-left-style: $border_style;
+border-left-width: $border_width;
+border-left-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-top-left-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxRowTR {
+border-top-style: $border_style;
+border-top-width: $border_width;
+border-top-color:  darken($color,28%);
+border-right-style: $border_style;
+border-right-width: $border_width;
+border-right-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-top-right-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxRowBL {
+border-left-style: $border_style;
+border-left-width: $border_width;
+border-left-color:  darken($color,28%);
+border-bottom-style: $border_style;
+border-bottom-width: $border_width;
+border-bottom-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-bottom-left-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+.reportColumnBoxRowBR {
+border-right-style: $border_style;
+border-right-width: $border_width;
+border-right-color:  darken($color,28%);
+border-bottom-style: $border_style;
+border-bottom-width: $border_width;
+border-bottom-color:  darken($color,28%);
+@if $border_radius > 0pt {
+border-bottom-right-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+
+.reportRowHeadingCell {
+@include BackgroundColor( $color, #333333 );
+padding: $padding;
+}
+
+.reportRowBoxRow {
+border-style: $border_style;
+border-width: $border_width;
+border-color: darken($color,28%);
+@if $border_radius > 0pt {
+border-radius: $border_radius;
+}
+vertical-alignment: middle;
+}
+
+@if $banded {
+.reportRowDetail {
+@include BackgroundColor( #ffffff , #000000 );
+padding: $padding;
+}
+
+.reportRowDetailAlt {
+@include AltColor($color);
+padding: $padding;
+}
+}

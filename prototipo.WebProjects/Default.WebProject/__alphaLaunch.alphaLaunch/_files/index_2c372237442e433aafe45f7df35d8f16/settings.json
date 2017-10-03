@@ -1,0 +1,33 @@
+{
+	"id": "PrototipoSoftram",
+	"name": "PrototipoSoftram",
+	"url": "",
+	"version": "1.1.0",
+	"installMessage": "",
+	"minSize": "",
+	"maxSize": "",
+	"description": "Prototipo",
+	"other": {
+		"developerName": "",
+		"deveroperEmail": ""
+	},
+	"publishing": {
+		"aexfiles": false
+	},
+	"BackgroundColor": "#5345f2",
+	"icontype": "Bitmap",
+	"iconbitmap": "",
+	"iconstyle": "",
+	"svg": "",
+	"advancedMode": false,
+	"advancedModeJson": "",
+	"options": {
+		"iOSStatusBar": {
+			"statusBarOverlaysWebView": 1,
+			"statusBarTextWhite": 0,
+			"statusBarBackgroundHexColor": "#FFF"
+		}
+	},
+	"downloadtype": "manifest",
+	"downloadLocation": ""
+}

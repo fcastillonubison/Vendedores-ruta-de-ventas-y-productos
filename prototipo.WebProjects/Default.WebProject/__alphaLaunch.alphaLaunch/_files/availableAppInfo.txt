@@ -1,0 +1,29 @@
+{
+	"version": "1.0",
+	"description": "Available App Info",
+	"hostname": "Test Server",
+	"message": "Sample message",
+	"messageVersion": 1,
+	"appList": [
+		{
+			"id": "PrototipoSoftram",
+			"name": "PrototipoSoftram",
+			"description": "Prototipo",
+			"url": "index_2c372237442e433aafe45f7df35d8f16",
+			"version": "1.1.0",
+			"installMessage": "",
+			"minSize": "",
+			"maxSize": "",
+			"ajaxURL": "http://nubisonlab.cl:1580/prototiposoftram//index_2c372237442e433aafe45f7df35d8f16/",
+			"type": "manifest",
+			"template": "<table style=\"background-color:#5345f2; padding-top:0px;padding-bottom:12px;width:100%;padding-top:12px\">  <tr>   <td style=\"width:64px;\">             <img  style=\"\" src=\"\" />   </td>   <td>    <p style=\"font-size: 20px; padding-left:20px; color:#fff; font-family:arial; margin-bottom:0px;\">{name}</p>    <p style=\"font-size: 14px; padding-left:20px; color:#fff; font-family:arial; margin-top:0px;\">{desc}</p>   </td>  </tr> </table> ",
+			"options": {
+				"iOSStatusBar": {
+					"statusBarOverlaysWebView": 1,
+					"statusBarTextWhite": 0,
+					"statusBarBackgroundHexColor": "#FFF"
+				}
+			}
+		}	
+]
+}

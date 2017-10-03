@@ -17,7 +17,7 @@ function _phoneGapSettings() {
         "disable-cursor": "false",
         "android-minSdkVersion": "14",
         "android-installLocation": "internalOnly",
-        "phonegap-version": "cli-6.5.0",
+        "phonegap-version": "cli-6.1.0",
         "FadeSplashScreen": "true",
         "FadeSplashScreenDuration": "2",
         "EnableViewportScale": "true",

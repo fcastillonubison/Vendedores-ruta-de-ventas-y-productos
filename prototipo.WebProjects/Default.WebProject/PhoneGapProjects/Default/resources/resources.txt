@@ -1,11 +1,11 @@
 {
-	"_id": "2823024",
-	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\isotipo.png",
+	"_id": "2904241",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Softram\\prototipo.WebProjects\\Default.WebProject\\icons8-cheap-2-96.png",
 	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
 	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
 	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
 	"_initialUxComponent": "index",
-	"_componentLastUpdated": "27/09/2017 12:57:10 11 pm",
+	"_componentLastUpdated": "27/11/2017 12:06:11 27 pm",
 	"_ajaxUrl": "http://nubisonlab.cl:1580/prototiposoftram/",
 	"_additionalFiles": "logoNubison.png\nImagenes\\bebidas-min.jpg\nImagenes\\carnes-min.jpg\nImagenes\\descuentos-min.jpg\nImagenes\\dulces-min.jpg\nImagenes\\licores-min.jpg\nImagenes\\limpieza-min.jpg\nImagenes\\producto-carnes-min.jpg\nImagenes\\producto-limpieza-min.jpg\nImagenes\\productos-bebidas2-min.jpg\nImagenes\\productos-bebidas-min.png\nImagenes\\productos-dulces-min.jpg\nImagenes\\productos-licores-min.jpg\nImagenes\\productos-vegetales-min.jpg\nImagenes\\vegetales-min.jpg",
 	"_userName": "Tva8QUYnrNfjBI9YXra2+XWnzlG7uifS",
@@ -33,5 +33,6 @@
 	"_windowsBuildFlag": false,
 	"launchAppManager": true,
 	"_sqlitedbdefined": false,
-	"cliProjectFolder": ""
+	"cliProjectFolder": "",
+	"_phonegapBuilderVersion": "1"
 }

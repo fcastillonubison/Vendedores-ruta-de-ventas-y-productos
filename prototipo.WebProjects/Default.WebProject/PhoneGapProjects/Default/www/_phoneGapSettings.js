@@ -37,11 +37,18 @@ function _phoneGapSettings() {
         "LoadingPageDialog": "Please wait, the data is loading.",
         "LoadUrlTimeoutValue": "20000",
         "AndroidPersistentFileLocation": "Internal",
-        "android-build-tool": "gradle"
+        "android-build-tool": "gradle",
+        "pgb-builder-version": "1"
     },
     "plugins": {
+        "cordova-plugin-file-transfer": "npm",
+        "cordova-media-with-compression": "npm",
+        "cordova-plugin-media-capture": "npm",
+        "cordova-plugin-device": "npm",
+        "cordova-plugin-file": "npm",
         "cordova-plugin-geolocation": "npm",
         "cordova-plugin-network-information": "npm",
+        "cordova-plugin-dialogs": "npm",
         "cordova-plugin-splashscreen": "npm",
         "cordova-plugin-whitelist": "npm"
     }

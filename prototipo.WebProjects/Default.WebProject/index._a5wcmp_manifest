@@ -1,9 +1,10 @@
-A5SaveTimeStamp:20170927125709973
+A5SaveTimeStamp:20171127120611199
 css:iOS7
+cssIcon:font-awesome
 subComponent:vendedor.a5wcmp
 subComponent:administrador.a5wcmp
-copyfile:{C:\Users\Desarrollador\Documents\Prototipo Softram\prototipo.WebProjects\Default.WebProject\logoNubison.png}
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Softram\prototipo.WebProjects\Default.WebProject\icons8-cheap-2-96.png}
 subComponent:vendedor
 subComponent:administrador
-precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_3a438a27b964480ba9c23f0ebd65004e_vendedor', uxname: 'vendedor', alias: '{alias}_VENDEDOR_18937AJYQ'}
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_919a397431184122b7006ef3555fefdf_vendedor', uxname: 'vendedor', alias: '{alias}_VENDEDOR_173030TEPE'}
 precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_779cdbdf9cb740c7866c50b17dc0ef34_administrador', uxname: 'administrador', alias: '{alias}_ADMINISTRA_18940SWUE'}
